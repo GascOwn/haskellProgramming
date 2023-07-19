@@ -25,7 +25,9 @@ source-repository head
 
 library
   exposed-modules:
+      Applicative
       Functor
+      Monads
   other-modules:
       Paths_haskellProgramming
   hs-source-dirs:
